@@ -1,44 +1,56 @@
-# Prodigy InfoTech Internship: Linear Regression Model
+# Prodigy InfoTech Internship: Sentiment Analysis on Social Media Data
 
-Welcome to **Task 4** of my internship at **Prodigy InfoTech**!  
-In this task, I built a linear regression model to predict continuous values based on input features.
+Welcome to Task 04 of my Data Science Internship at **Prodigy InfoTech**!  
+This task focuses on applying **sentiment analysis** techniques to uncover public opinion from social media content.
+
   <img width="742" alt="question" src="https://github.com/mithildabhi/PRODIGY_DS_04/blob/main/QUESTION.png" style ='center'/>
 
 ---
 
-## 🏠 Task Summary
+## 📌 Task Summary
 
-Developed a **Linear Regression** model to predict **house prices** using features such as area, number of bedrooms, and location.  
-This project showcases how linear models can be used for predictive analysis in real-world datasets.
-
----
-
-## 🧠 Skills & Knowledge Gained
-
-- Implemented linear regression using **Scikit-learn**.
-- Applied techniques for **data preprocessing** and **feature selection**.
-- Visualized results using **Matplotlib** and evaluated model performance using metrics like **Mean Squared Error (MSE)** and **R² score**.
+Analyzed and visualized **sentiment patterns** in social media data to understand public opinion and attitudes towards specific topics, brands, or entities.  
+This task involved identifying sentiment polarity (positive, negative, neutral) from tweets or posts using natural language processing techniques.
 
 ---
 
-## 📊 Tools & Libraries Used
+## 📊 Dataset
+
+- **Source:** [Twitter Entity Sentiment Analysis Dataset](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
+
+---
+
+## 🧠 Skills & Concepts Applied
+
+- Text preprocessing (tokenization, stopword removal, stemming)
+- Sentiment classification using NLP techniques
+- Data visualization for sentiment trends
+- Exploratory Data Analysis (EDA)
+- Word clouds and polarity graphs
+
+---
+
+## 🛠 Tools & Libraries
 
 - Python  
 - Pandas  
-- NumPy  
-- Scikit-learn  
-- Matplotlib  
-- Seaborn  
+- NLTK / TextBlob / VADER  
+- Matplotlib / Seaborn  
+- Scikit-learn (optional for model-based classification)
 
 ---
 
-## 🤝 Let’s Connect
+## 📈 Outcome
 
-Explore the project, provide feedback, or connect with me to discuss topics related to **data science**, **machine learning**, or **internship experiences**.
+Visual dashboards and metrics that illustrate how sentiments vary across tweets, brands, or events—helping to understand how people feel about particular topics.
 
 ---
 
-## 📬 Contact
+## 🙌 Let’s Connect
+
+If you're interested in data science, NLP, or internship experiences, feel free to connect!
+
+### 📬 Contact
 
 - **Email:** mithildabhi898@gmail.com  
 - **LinkedIn:** [Mithil Dabhi](https://www.linkedin.com/in/mithildabhi)
